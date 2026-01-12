@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "パメラ",
+  "base_artist": "Chevon",
+  "createdAt": "2026-01-12T15:52:19.088251Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "パメラ",
+      "artist": "balloon",
+      "has_synced": true,
+      "path": "select/01_パメラ_balloon.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "パメラ",
+      "artist": "Chevon",
+      "has_synced": false,
+      "path": "select/02_パメラ_Chevon.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "パメラ",
+      "artist": "Chevon",
+      "has_synced": true,
+      "path": "select/03_パメラ_Chevon.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "パメラ",
+      "artist": "Chevon",
+      "has_synced": false,
+      "path": "select/pl_01_パメラ_Chevon.txt"
+    }
+  ]
+}
